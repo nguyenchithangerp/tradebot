@@ -1,0 +1,3 @@
+[2025-06-12T10:03:50.916Z] Loaded filters: stepSize=0.00001, minQty=0.00001, minNotional=0
+[2025-06-12T10:03:50.918Z] Placing grid orders...
+[2025-06-12T10:03:50.919Z] Fatal error: adjustQuantity is not defined

@@ -1,0 +1,11 @@
+[2025-06-12T08:05:41.678Z] Loaded symbol filters: stepSize=0.00001, minQty=0.00001, minNotional=0
+[2025-06-12T08:05:41.680Z] Placing grid orders...
+[2025-06-12T08:05:41.958Z] BUY placed: id=3498636, price=100353, qty=0.00249
+[2025-06-12T08:05:42.061Z] SELL placed: id=3498637, price=102733.22, qty=0.00249
+[2025-06-12T08:05:42.336Z] BUY placed: id=3498638, price=102733.22, qty=0.00243
+[2025-06-12T08:05:42.615Z] SELL placed: id=3498639, price=105169.9, qty=0.00243
+[2025-06-12T08:05:42.896Z] BUY placed: id=3498640, price=105169.9, qty=0.00237
+[2025-06-12T08:05:42.998Z] SELL placed: id=3498641, price=107664.37, qty=0.00237
+[2025-06-12T08:05:43.301Z] BUY placed: id=3498642, price=107664.37, qty=0.00232
+[2025-06-12T08:05:43.707Z] SELL placed: id=3498643, price=110218, qty=0.00232
+[2025-06-12T08:05:53.712Z] Run complete: cancelling open orders & printing summary
